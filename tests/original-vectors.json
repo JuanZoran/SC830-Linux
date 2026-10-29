@@ -1,0 +1,2119 @@
+{
+  "source": "GamingMS.exe from SC830 V1.1.8",
+  "dpi_values": [
+    400,
+    600,
+    800,
+    1000,
+    1200,
+    1400,
+    1600,
+    1800,
+    2000,
+    2200,
+    2400,
+    2600,
+    2800,
+    3000,
+    3200,
+    3400,
+    3600,
+    3800,
+    4000,
+    4200,
+    4400,
+    4600,
+    4800,
+    6000,
+    6200,
+    6400,
+    6600,
+    6800,
+    7000,
+    7200,
+    7400,
+    7600,
+    7800,
+    8000,
+    8200,
+    8400,
+    8600,
+    8800,
+    9000,
+    9200,
+    9400,
+    9600
+  ],
+  "vectors": [
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          400
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c0105000001121101010001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          600
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c0105000001121101020001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          800
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c0105000001121101030001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          1000
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c0105000001121101040001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          1200
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c0105000001121101050001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          1400
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c0105000001121101060001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          1600
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c0105000001121101070001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          1800
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c0105000001121101080001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          2000
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c0105000001121101090001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          2200
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c01050000011211010a0001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          2400
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c01050000011211010b0001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          2600
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c01050000011211010c0001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          2800
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c01050000011211010d0001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          3000
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c01050000011211010e0001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          3200
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c01050000011211010f0001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          3400
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c0105000001121101100001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          3600
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c0105000001121101110001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          3800
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c0105000001121101120001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          4000
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c0105000001121101130001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          4200
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c0105000001121101140001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          4400
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c0105000001121101150001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          4600
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c0105000001121101160001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          4800
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c0105000001121101170001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          6000
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c0105000001121101180001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          6200
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c0105000001121101190001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          6400
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c01050000011211011a0001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          6600
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c01050000011211011b0001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          6800
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c01050000011211011c0001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          7000
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c01050000011211011d0001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          7200
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c01050000011211011e0001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          7400
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c01050000011211011f0001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          7600
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c0105000001121101200001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          7800
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c0105000001121101210001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          8000
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c0105000001121101220001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          8200
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c0105000001121101230001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          8400
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c0105000001121101240001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          8600
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c0105000001121101250001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          8800
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c0105000001121101260001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          9000
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c0105000001121101270001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          9200
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c0105000001121101280001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          9400
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c0105000001121101290001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          9600
+        ],
+        "active": 0
+      },
+      "packets": [
+        "0c01050000011211012a0001000100010001000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi",
+      "input": {
+        "values": [
+          400,
+          600,
+          800,
+          1000,
+          1200
+        ],
+        "active": 4,
+        "enabled": [
+          true,
+          false,
+          true,
+          false,
+          true
+        ]
+      },
+      "packets": [
+        "0c0105000001125315010002000300040005000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "dpi_colors",
+      "input": {
+        "colors": [
+          "#112233",
+          "#445566",
+          "#778899",
+          "#AABBCC",
+          "#DDEEFF",
+          "#123456",
+          "#654321",
+          "#102030"
+        ]
+      },
+      "packets": [
+        "0c010600000118112233445566778899aabbccddeeff1234566543211020300000"
+      ]
+    },
+    {
+      "kind": "polling",
+      "input": {
+        "hz": 125
+      },
+      "packets": [
+        "0c0107000001010800000000000000000000000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "polling",
+      "input": {
+        "hz": 250
+      },
+      "packets": [
+        "0c0107000001010400000000000000000000000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "polling",
+      "input": {
+        "hz": 500
+      },
+      "packets": [
+        "0c0107000001010200000000000000000000000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "polling",
+      "input": {
+        "hz": 1000
+      },
+      "packets": [
+        "0c0107000001010100000000000000000000000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "lighting",
+      "input": {
+        "mode": "off",
+        "speed": 1,
+        "brightness": 1,
+        "colors": [
+          "#112233"
+        ],
+        "direction": 1
+      },
+      "packets": [
+        "0c0108000001020011000000000000000000000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "lighting",
+      "input": {
+        "mode": "off",
+        "speed": 2,
+        "brightness": 3,
+        "colors": [
+          "#112233"
+        ],
+        "direction": 1
+      },
+      "packets": [
+        "0c0108000001020032000000000000000000000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "lighting",
+      "input": {
+        "mode": "off",
+        "speed": 4,
+        "brightness": 4,
+        "colors": [
+          "#112233"
+        ],
+        "direction": 1
+      },
+      "packets": [
+        "0c0108000001020044000000000000000000000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "lighting",
+      "input": {
+        "mode": "stream",
+        "speed": 1,
+        "brightness": 1,
+        "colors": [
+          "#112233"
+        ],
+        "direction": 1
+      },
+      "packets": [
+        "0c0108000001030111010000000000000000000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "lighting",
+      "input": {
+        "mode": "stream",
+        "speed": 2,
+        "brightness": 3,
+        "colors": [
+          "#112233"
+        ],
+        "direction": 1
+      },
+      "packets": [
+        "0c0108000001030132010000000000000000000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "lighting",
+      "input": {
+        "mode": "stream",
+        "speed": 4,
+        "brightness": 4,
+        "colors": [
+          "#112233"
+        ],
+        "direction": 1
+      },
+      "packets": [
+        "0c0108000001030144010000000000000000000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "lighting",
+      "input": {
+        "mode": "breathing",
+        "speed": 1,
+        "brightness": 1,
+        "colors": [
+          "#112233",
+          "#445566",
+          "#778899",
+          "#AABBCC",
+          "#DDEEFF",
+          "#123456",
+          "#654321"
+        ],
+        "direction": 1
+      },
+      "packets": [
+        "0c010800000118021107112233445566778899aabbccddeeff1234566543210000"
+      ]
+    },
+    {
+      "kind": "lighting",
+      "input": {
+        "mode": "breathing",
+        "speed": 2,
+        "brightness": 3,
+        "colors": [
+          "#112233",
+          "#445566",
+          "#778899",
+          "#AABBCC",
+          "#DDEEFF",
+          "#123456",
+          "#654321"
+        ],
+        "direction": 1
+      },
+      "packets": [
+        "0c010800000118023207112233445566778899aabbccddeeff1234566543210000"
+      ]
+    },
+    {
+      "kind": "lighting",
+      "input": {
+        "mode": "breathing",
+        "speed": 4,
+        "brightness": 4,
+        "colors": [
+          "#112233",
+          "#445566",
+          "#778899",
+          "#AABBCC",
+          "#DDEEFF",
+          "#123456",
+          "#654321"
+        ],
+        "direction": 1
+      },
+      "packets": [
+        "0c010800000118024407112233445566778899aabbccddeeff1234566543210000"
+      ]
+    },
+    {
+      "kind": "lighting",
+      "input": {
+        "mode": "steady",
+        "speed": 1,
+        "brightness": 1,
+        "colors": [
+          "#112233"
+        ],
+        "direction": 1
+      },
+      "packets": [
+        "0c0108000001050311112233000000000000000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "lighting",
+      "input": {
+        "mode": "steady",
+        "speed": 2,
+        "brightness": 3,
+        "colors": [
+          "#112233"
+        ],
+        "direction": 1
+      },
+      "packets": [
+        "0c0108000001050332112233000000000000000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "lighting",
+      "input": {
+        "mode": "steady",
+        "speed": 4,
+        "brightness": 4,
+        "colors": [
+          "#112233"
+        ],
+        "direction": 1
+      },
+      "packets": [
+        "0c0108000001050344112233000000000000000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "lighting",
+      "input": {
+        "mode": "neon",
+        "speed": 1,
+        "brightness": 1,
+        "colors": [
+          "#112233"
+        ],
+        "direction": 1
+      },
+      "packets": [
+        "0c0108000001020411000000000000000000000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "lighting",
+      "input": {
+        "mode": "neon",
+        "speed": 2,
+        "brightness": 3,
+        "colors": [
+          "#112233"
+        ],
+        "direction": 1
+      },
+      "packets": [
+        "0c0108000001020432000000000000000000000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "lighting",
+      "input": {
+        "mode": "neon",
+        "speed": 4,
+        "brightness": 4,
+        "colors": [
+          "#112233"
+        ],
+        "direction": 1
+      },
+      "packets": [
+        "0c0108000001020444000000000000000000000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "lighting",
+      "input": {
+        "mode": "snake",
+        "speed": 1,
+        "brightness": 1,
+        "colors": [
+          "#112233"
+        ],
+        "direction": 1
+      },
+      "packets": [
+        "0c0108000001020511000000000000000000000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "lighting",
+      "input": {
+        "mode": "snake",
+        "speed": 2,
+        "brightness": 3,
+        "colors": [
+          "#112233"
+        ],
+        "direction": 1
+      },
+      "packets": [
+        "0c0108000001020532000000000000000000000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "lighting",
+      "input": {
+        "mode": "snake",
+        "speed": 4,
+        "brightness": 4,
+        "colors": [
+          "#112233"
+        ],
+        "direction": 1
+      },
+      "packets": [
+        "0c0108000001020544000000000000000000000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "lighting",
+      "input": {
+        "mode": "colorful",
+        "speed": 1,
+        "brightness": 1,
+        "colors": [
+          "#112233",
+          "#445566",
+          "#778899",
+          "#AABBCC",
+          "#DDEEFF",
+          "#123456",
+          "#654321"
+        ],
+        "direction": 1
+      },
+      "packets": [
+        "0c0108000001170611112233445566778899aabbccddeeff123456654321000000"
+      ]
+    },
+    {
+      "kind": "lighting",
+      "input": {
+        "mode": "colorful",
+        "speed": 2,
+        "brightness": 3,
+        "colors": [
+          "#112233",
+          "#445566",
+          "#778899",
+          "#AABBCC",
+          "#DDEEFF",
+          "#123456",
+          "#654321"
+        ],
+        "direction": 1
+      },
+      "packets": [
+        "0c0108000001170632112233445566778899aabbccddeeff123456654321000000"
+      ]
+    },
+    {
+      "kind": "lighting",
+      "input": {
+        "mode": "colorful",
+        "speed": 4,
+        "brightness": 4,
+        "colors": [
+          "#112233",
+          "#445566",
+          "#778899",
+          "#AABBCC",
+          "#DDEEFF",
+          "#123456",
+          "#654321"
+        ],
+        "direction": 1
+      },
+      "packets": [
+        "0c0108000001170644112233445566778899aabbccddeeff123456654321000000"
+      ]
+    },
+    {
+      "kind": "lighting",
+      "input": {
+        "mode": "wave",
+        "speed": 1,
+        "brightness": 1,
+        "colors": [
+          "#112233"
+        ],
+        "direction": 1
+      },
+      "packets": [
+        "0c0108000001020911000000000000000000000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "lighting",
+      "input": {
+        "mode": "wave",
+        "speed": 2,
+        "brightness": 3,
+        "colors": [
+          "#112233"
+        ],
+        "direction": 1
+      },
+      "packets": [
+        "0c0108000001020932000000000000000000000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "lighting",
+      "input": {
+        "mode": "wave",
+        "speed": 4,
+        "brightness": 4,
+        "colors": [
+          "#112233"
+        ],
+        "direction": 1
+      },
+      "packets": [
+        "0c0108000001020944000000000000000000000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "lighting",
+      "input": {
+        "mode": "stream",
+        "speed": 1,
+        "brightness": 1,
+        "colors": [
+          "#112233"
+        ],
+        "direction": 0
+      },
+      "packets": [
+        "0c0108000001030111000000000000000000000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "lighting",
+      "input": {
+        "mode": "stream",
+        "speed": 2,
+        "brightness": 1,
+        "colors": [
+          "#112233"
+        ],
+        "direction": 0
+      },
+      "packets": [
+        "0c0108000001030112000000000000000000000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "lighting",
+      "input": {
+        "mode": "stream",
+        "speed": 4,
+        "brightness": 1,
+        "colors": [
+          "#112233"
+        ],
+        "direction": 0
+      },
+      "packets": [
+        "0c0108000001030114000000000000000000000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "buttons",
+      "input": {
+        "actions": [
+          "100100",
+          "100200",
+          "700106",
+          "808301",
+          "304603",
+          "400100"
+        ]
+      },
+      "packets": [
+        "0c0104000001040010010000000000000000000000000000000000000000000000",
+        "0c0104000101040110020000000000000000000000000000000000000000000000",
+        "0c0104000201040270010600000000000000000000000000000000000000000000",
+        "0c0104000301040330460300000000000000000000000000000000000000000000",
+        "0c0104000401040480830100000000000000000000000000000000000000000000",
+        "0c0104000501040540010000000000000000000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "macro",
+      "input": {
+        "slot": 3,
+        "events": [
+          {
+            "type": "key",
+            "key": "a",
+            "state": "down",
+            "delay_ms": 0
+          }
+        ]
+      },
+      "packets": [
+        "0c010e000001040330000400000000000000000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "macro",
+      "input": {
+        "slot": 3,
+        "events": [
+          {
+            "type": "key",
+            "key": "a",
+            "state": "down",
+            "delay_ms": 0
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "up",
+            "delay_ms": 71
+          },
+          {
+            "type": "key",
+            "key": "ctrl",
+            "state": "down",
+            "delay_ms": 142
+          },
+          {
+            "type": "mouse",
+            "button": "left",
+            "state": "up",
+            "delay_ms": 213
+          },
+          {
+            "type": "move_x",
+            "value": -12,
+            "delay_ms": 284
+          },
+          {
+            "type": "wheel",
+            "value": 1,
+            "delay_ms": 355
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "down",
+            "delay_ms": 426
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "up",
+            "delay_ms": 497
+          }
+        ]
+      },
+      "packets": [
+        "0c010e0000011903300004b04704208e0190d501511cf441630131aa04b1f10400"
+      ]
+    },
+    {
+      "kind": "macro",
+      "input": {
+        "slot": 3,
+        "events": [
+          {
+            "type": "key",
+            "key": "a",
+            "state": "down",
+            "delay_ms": 0
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "up",
+            "delay_ms": 71
+          },
+          {
+            "type": "key",
+            "key": "ctrl",
+            "state": "down",
+            "delay_ms": 142
+          },
+          {
+            "type": "mouse",
+            "button": "left",
+            "state": "up",
+            "delay_ms": 213
+          },
+          {
+            "type": "move_x",
+            "value": -12,
+            "delay_ms": 284
+          },
+          {
+            "type": "wheel",
+            "value": 1,
+            "delay_ms": 355
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "down",
+            "delay_ms": 426
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "up",
+            "delay_ms": 497
+          },
+          {
+            "type": "key",
+            "key": "ctrl",
+            "state": "down",
+            "delay_ms": 568
+          }
+        ]
+      },
+      "packets": [
+        "0c010e0000021a03300004b04704208e0190d501511cf441630131aa04b1f10422",
+        "0c010e000112030338010000000000000000000000000000000000000000000000"
+      ]
+    },
+    {
+      "kind": "macro",
+      "input": {
+        "slot": 3,
+        "events": [
+          {
+            "type": "key",
+            "key": "a",
+            "state": "down",
+            "delay_ms": 0
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "up",
+            "delay_ms": 71
+          },
+          {
+            "type": "key",
+            "key": "ctrl",
+            "state": "down",
+            "delay_ms": 142
+          },
+          {
+            "type": "mouse",
+            "button": "left",
+            "state": "up",
+            "delay_ms": 213
+          },
+          {
+            "type": "move_x",
+            "value": -12,
+            "delay_ms": 284
+          },
+          {
+            "type": "wheel",
+            "value": 1,
+            "delay_ms": 355
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "down",
+            "delay_ms": 426
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "up",
+            "delay_ms": 497
+          },
+          {
+            "type": "key",
+            "key": "ctrl",
+            "state": "down",
+            "delay_ms": 568
+          },
+          {
+            "type": "mouse",
+            "button": "left",
+            "state": "up",
+            "delay_ms": 639
+          },
+          {
+            "type": "move_x",
+            "value": -12,
+            "delay_ms": 710
+          },
+          {
+            "type": "wheel",
+            "value": 1,
+            "delay_ms": 781
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "down",
+            "delay_ms": 852
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "up",
+            "delay_ms": 923
+          },
+          {
+            "type": "key",
+            "key": "ctrl",
+            "state": "down",
+            "delay_ms": 994
+          },
+          {
+            "type": "mouse",
+            "button": "left",
+            "state": "up",
+            "delay_ms": 1065
+          },
+          {
+            "type": "move_x",
+            "value": -12,
+            "delay_ms": 1136
+          },
+          {
+            "type": "wheel",
+            "value": 1,
+            "delay_ms": 1207
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "down",
+            "delay_ms": 1278
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "up",
+            "delay_ms": 1349
+          },
+          {
+            "type": "key",
+            "key": "ctrl",
+            "state": "down",
+            "delay_ms": 1420
+          },
+          {
+            "type": "mouse",
+            "button": "left",
+            "state": "up",
+            "delay_ms": 1491
+          },
+          {
+            "type": "move_x",
+            "value": -12,
+            "delay_ms": 1562
+          },
+          {
+            "type": "wheel",
+            "value": 1,
+            "delay_ms": 1633
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "down",
+            "delay_ms": 1704
+          }
+        ]
+      },
+      "packets": [
+        "0c010e0000031a03300004b04704208e0190d501511cf441630131aa04b1f10422",
+        "0c010e0001131a033801927f0152c6f4430d01335404b39b0423e2019429015470",
+        "0c010e0002231a03f444b70134fe04b54504258c0195d301561af446610136a804"
+      ]
+    },
+    {
+      "kind": "macro",
+      "input": {
+        "slot": 3,
+        "events": [
+          {
+            "type": "key",
+            "key": "a",
+            "state": "down",
+            "delay_ms": 0
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "up",
+            "delay_ms": 71
+          },
+          {
+            "type": "key",
+            "key": "ctrl",
+            "state": "down",
+            "delay_ms": 142
+          },
+          {
+            "type": "mouse",
+            "button": "left",
+            "state": "up",
+            "delay_ms": 213
+          },
+          {
+            "type": "move_x",
+            "value": -12,
+            "delay_ms": 284
+          },
+          {
+            "type": "wheel",
+            "value": 1,
+            "delay_ms": 355
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "down",
+            "delay_ms": 426
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "up",
+            "delay_ms": 497
+          },
+          {
+            "type": "key",
+            "key": "ctrl",
+            "state": "down",
+            "delay_ms": 568
+          },
+          {
+            "type": "mouse",
+            "button": "left",
+            "state": "up",
+            "delay_ms": 639
+          },
+          {
+            "type": "move_x",
+            "value": -12,
+            "delay_ms": 710
+          },
+          {
+            "type": "wheel",
+            "value": 1,
+            "delay_ms": 781
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "down",
+            "delay_ms": 852
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "up",
+            "delay_ms": 923
+          },
+          {
+            "type": "key",
+            "key": "ctrl",
+            "state": "down",
+            "delay_ms": 994
+          },
+          {
+            "type": "mouse",
+            "button": "left",
+            "state": "up",
+            "delay_ms": 1065
+          },
+          {
+            "type": "move_x",
+            "value": -12,
+            "delay_ms": 1136
+          },
+          {
+            "type": "wheel",
+            "value": 1,
+            "delay_ms": 1207
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "down",
+            "delay_ms": 1278
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "up",
+            "delay_ms": 1349
+          },
+          {
+            "type": "key",
+            "key": "ctrl",
+            "state": "down",
+            "delay_ms": 1420
+          },
+          {
+            "type": "mouse",
+            "button": "left",
+            "state": "up",
+            "delay_ms": 1491
+          },
+          {
+            "type": "move_x",
+            "value": -12,
+            "delay_ms": 1562
+          },
+          {
+            "type": "wheel",
+            "value": 1,
+            "delay_ms": 1633
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "down",
+            "delay_ms": 1704
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "up",
+            "delay_ms": 1775
+          },
+          {
+            "type": "key",
+            "key": "ctrl",
+            "state": "down",
+            "delay_ms": 1846
+          },
+          {
+            "type": "mouse",
+            "button": "left",
+            "state": "up",
+            "delay_ms": 1917
+          },
+          {
+            "type": "move_x",
+            "value": -12,
+            "delay_ms": 1988
+          },
+          {
+            "type": "wheel",
+            "value": 1,
+            "delay_ms": 2059
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "down",
+            "delay_ms": 2130
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "up",
+            "delay_ms": 2201
+          },
+          {
+            "type": "key",
+            "key": "ctrl",
+            "state": "down",
+            "delay_ms": 2272
+          },
+          {
+            "type": "mouse",
+            "button": "left",
+            "state": "up",
+            "delay_ms": 2343
+          },
+          {
+            "type": "move_x",
+            "value": -12,
+            "delay_ms": 2414
+          },
+          {
+            "type": "wheel",
+            "value": 1,
+            "delay_ms": 2485
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "down",
+            "delay_ms": 2556
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "up",
+            "delay_ms": 2627
+          },
+          {
+            "type": "key",
+            "key": "ctrl",
+            "state": "down",
+            "delay_ms": 2698
+          },
+          {
+            "type": "mouse",
+            "button": "left",
+            "state": "up",
+            "delay_ms": 2769
+          },
+          {
+            "type": "move_x",
+            "value": -12,
+            "delay_ms": 2840
+          },
+          {
+            "type": "wheel",
+            "value": 1,
+            "delay_ms": 2911
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "down",
+            "delay_ms": 2982
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "up",
+            "delay_ms": 3053
+          },
+          {
+            "type": "key",
+            "key": "ctrl",
+            "state": "down",
+            "delay_ms": 3124
+          },
+          {
+            "type": "mouse",
+            "button": "left",
+            "state": "up",
+            "delay_ms": 3195
+          },
+          {
+            "type": "move_x",
+            "value": -12,
+            "delay_ms": 3266
+          },
+          {
+            "type": "wheel",
+            "value": 1,
+            "delay_ms": 3337
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "down",
+            "delay_ms": 3408
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "up",
+            "delay_ms": 3479
+          },
+          {
+            "type": "key",
+            "key": "ctrl",
+            "state": "down",
+            "delay_ms": 3550
+          },
+          {
+            "type": "mouse",
+            "button": "left",
+            "state": "up",
+            "delay_ms": 3621
+          },
+          {
+            "type": "move_x",
+            "value": -12,
+            "delay_ms": 3692
+          },
+          {
+            "type": "wheel",
+            "value": 1,
+            "delay_ms": 3763
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "down",
+            "delay_ms": 3834
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "up",
+            "delay_ms": 3905
+          },
+          {
+            "type": "key",
+            "key": "ctrl",
+            "state": "down",
+            "delay_ms": 3976
+          },
+          {
+            "type": "mouse",
+            "button": "left",
+            "state": "up",
+            "delay_ms": 4047
+          },
+          {
+            "type": "move_x",
+            "value": -12,
+            "delay_ms": 22
+          },
+          {
+            "type": "wheel",
+            "value": 1,
+            "delay_ms": 93
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "down",
+            "delay_ms": 164
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "up",
+            "delay_ms": 235
+          },
+          {
+            "type": "key",
+            "key": "ctrl",
+            "state": "down",
+            "delay_ms": 306
+          },
+          {
+            "type": "mouse",
+            "button": "left",
+            "state": "up",
+            "delay_ms": 377
+          },
+          {
+            "type": "move_x",
+            "value": -12,
+            "delay_ms": 448
+          },
+          {
+            "type": "wheel",
+            "value": 1,
+            "delay_ms": 519
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "down",
+            "delay_ms": 590
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "up",
+            "delay_ms": 661
+          },
+          {
+            "type": "key",
+            "key": "ctrl",
+            "state": "down",
+            "delay_ms": 732
+          },
+          {
+            "type": "mouse",
+            "button": "left",
+            "state": "up",
+            "delay_ms": 803
+          },
+          {
+            "type": "move_x",
+            "value": -12,
+            "delay_ms": 874
+          },
+          {
+            "type": "wheel",
+            "value": 1,
+            "delay_ms": 945
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "down",
+            "delay_ms": 1016
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "up",
+            "delay_ms": 1087
+          },
+          {
+            "type": "key",
+            "key": "ctrl",
+            "state": "down",
+            "delay_ms": 1158
+          },
+          {
+            "type": "mouse",
+            "button": "left",
+            "state": "up",
+            "delay_ms": 1229
+          },
+          {
+            "type": "move_x",
+            "value": -12,
+            "delay_ms": 1300
+          },
+          {
+            "type": "wheel",
+            "value": 1,
+            "delay_ms": 1371
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "down",
+            "delay_ms": 1442
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "up",
+            "delay_ms": 1513
+          },
+          {
+            "type": "key",
+            "key": "ctrl",
+            "state": "down",
+            "delay_ms": 1584
+          },
+          {
+            "type": "mouse",
+            "button": "left",
+            "state": "up",
+            "delay_ms": 1655
+          },
+          {
+            "type": "move_x",
+            "value": -12,
+            "delay_ms": 1726
+          },
+          {
+            "type": "wheel",
+            "value": 1,
+            "delay_ms": 1797
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "down",
+            "delay_ms": 1868
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "up",
+            "delay_ms": 1939
+          },
+          {
+            "type": "key",
+            "key": "ctrl",
+            "state": "down",
+            "delay_ms": 2010
+          },
+          {
+            "type": "mouse",
+            "button": "left",
+            "state": "up",
+            "delay_ms": 2081
+          },
+          {
+            "type": "move_x",
+            "value": -12,
+            "delay_ms": 2152
+          },
+          {
+            "type": "wheel",
+            "value": 1,
+            "delay_ms": 2223
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "down",
+            "delay_ms": 2294
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "up",
+            "delay_ms": 2365
+          },
+          {
+            "type": "key",
+            "key": "ctrl",
+            "state": "down",
+            "delay_ms": 2436
+          },
+          {
+            "type": "mouse",
+            "button": "left",
+            "state": "up",
+            "delay_ms": 2507
+          },
+          {
+            "type": "move_x",
+            "value": -12,
+            "delay_ms": 2578
+          },
+          {
+            "type": "wheel",
+            "value": 1,
+            "delay_ms": 2649
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "down",
+            "delay_ms": 2720
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "up",
+            "delay_ms": 2791
+          },
+          {
+            "type": "key",
+            "key": "ctrl",
+            "state": "down",
+            "delay_ms": 2862
+          },
+          {
+            "type": "mouse",
+            "button": "left",
+            "state": "up",
+            "delay_ms": 2933
+          },
+          {
+            "type": "move_x",
+            "value": -12,
+            "delay_ms": 3004
+          },
+          {
+            "type": "wheel",
+            "value": 1,
+            "delay_ms": 3075
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "down",
+            "delay_ms": 3146
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "up",
+            "delay_ms": 3217
+          },
+          {
+            "type": "key",
+            "key": "ctrl",
+            "state": "down",
+            "delay_ms": 3288
+          },
+          {
+            "type": "mouse",
+            "button": "left",
+            "state": "up",
+            "delay_ms": 3359
+          },
+          {
+            "type": "move_x",
+            "value": -12,
+            "delay_ms": 3430
+          },
+          {
+            "type": "wheel",
+            "value": 1,
+            "delay_ms": 3501
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "down",
+            "delay_ms": 3572
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "up",
+            "delay_ms": 3643
+          },
+          {
+            "type": "key",
+            "key": "ctrl",
+            "state": "down",
+            "delay_ms": 3714
+          },
+          {
+            "type": "mouse",
+            "button": "left",
+            "state": "up",
+            "delay_ms": 3785
+          },
+          {
+            "type": "move_x",
+            "value": -12,
+            "delay_ms": 3856
+          },
+          {
+            "type": "wheel",
+            "value": 1,
+            "delay_ms": 3927
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "down",
+            "delay_ms": 3998
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "up",
+            "delay_ms": 4069
+          },
+          {
+            "type": "key",
+            "key": "ctrl",
+            "state": "down",
+            "delay_ms": 44
+          },
+          {
+            "type": "mouse",
+            "button": "left",
+            "state": "up",
+            "delay_ms": 115
+          },
+          {
+            "type": "move_x",
+            "value": -12,
+            "delay_ms": 186
+          },
+          {
+            "type": "wheel",
+            "value": 1,
+            "delay_ms": 257
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "down",
+            "delay_ms": 328
+          },
+          {
+            "type": "key",
+            "key": "a",
+            "state": "up",
+            "delay_ms": 399
+          },
+          {
+            "type": "key",
+            "key": "ctrl",
+            "state": "down",
+            "delay_ms": 470
+          },
+          {
+            "type": "mouse",
+            "button": "left",
+            "state": "up",
+            "delay_ms": 541
+          },
+          {
+            "type": "move_x",
+            "value": -12,
+            "delay_ms": 612
+          }
+        ]
+      },
+      "packets": [
+        "0c010e00000f1a03300004b04704208e0190d501511cf441630131aa04b1f10422",
+        "0c010e00011f1a033801927f0152c6f4430d01335404b39b0423e2019429015470",
+        "0c010e00022f1a03f444b70134fe04b54504258c0195d301561af446610136a804",
+        "0c010e00033f1a03b6ef04273601977d0157c4f4480b01385204b8990428e00199",
+        "0c010e00044f1a032701596ef449b50139fc04ba43042a8a019ad1015b18f44b5f",
+        "0c010e00055f1a03013ba604bbed042c34019c7b015cc2f44d09013d5004bd9704",
+        "0c010e00066f1a032dde019e25015e6cf44eb3013efa04bf41042f88019fcf0150",
+        "0c010e00077f1a0316f4405d0130a404b0eb0421320191790151c0f4420701324e",
+        "0c010e00088f1a0304b2950422dc01932301536af443b10133f804b43f04248601",
+        "0c010e00099f1a0394cd015514f4455b0135a204b5e90426300196770156bef447",
+        "0c010e000aaf1a030501374c04b7930427da019821015868f448af0138f604b93d",
+        "0c010e000bbf1a030429840199cb015a12f44a59013aa004bae7042b2e019b7501",
+        "0c010e000ccf1a035bbcf44c03013c4a04bc91042cd8019d1f015d66f44dad013d",
+        "0c010e000ddf1a03f404be3b042e82019ec9015f10f44f57013f9e04bfe504202c",
+        "0c010e000eef1a030190730150baf4410101314804b18f0421d601921d015264f4"
+      ]
+    }
+  ]
+}

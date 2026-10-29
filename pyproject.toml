@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sc830-linux"
+version = "0.1.0"
+description = "Native Linux configuration for the AULA SC830 mouse"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+sc830 = "sc830.cli:main"
+sc830-gui = "sc830.gui:main"
+
+[tool.setuptools.packages.find]
+include = ["sc830*"]

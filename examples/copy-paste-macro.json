@@ -1,0 +1,10 @@
+[
+  {"type": "key", "key": "ctrl", "state": "down", "delay_ms": 10},
+  {"type": "key", "key": "c", "state": "down", "delay_ms": 30},
+  {"type": "key", "key": "c", "state": "up", "delay_ms": 10},
+  {"type": "key", "key": "ctrl", "state": "up", "delay_ms": 500},
+  {"type": "key", "key": "ctrl", "state": "down", "delay_ms": 10},
+  {"type": "key", "key": "v", "state": "down", "delay_ms": 30},
+  {"type": "key", "key": "v", "state": "up", "delay_ms": 10},
+  {"type": "key", "key": "ctrl", "state": "up", "delay_ms": 0}
+]

@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "name": "配置一",
+  "dpi": {
+    "values": [
+      800,
+      1200,
+      1600,
+      2400,
+      4000
+    ],
+    "active": 1,
+    "enabled": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "colors": [
+      "#FF0000",
+      "#00FF00",
+      "#0000FF",
+      "#FF00FF",
+      "#FFFF00"
+    ]
+  },
+  "polling_rate": 500,
+  "lighting": {
+    "mode": "stream",
+    "speed": 2,
+    "brightness": 2,
+    "colors": [
+      "#FF0000"
+    ],
+    "direction": 0
+  },
+  "buttons": [
+    "left",
+    "right",
+    "middle",
+    "forward",
+    "back",
+    "dpi-cycle"
+  ],
+  "macros": {}
+}
